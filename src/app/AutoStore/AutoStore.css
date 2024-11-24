@@ -1,0 +1,42 @@
+.AutoStore {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .AutoStore h1 {
+    font-size: 36px;
+    margin-bottom: 0px;
+  }
+  
+  .AutoStore img {
+    max-width: 20%;
+    height: 10%;
+    margin-bottom: 0px;
+  }
+  
+  .AutoStore p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 0px;
+  }
+  
+  .AutoStore .price {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .AutoStore .price p {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .AutoStore button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

@@ -1,0 +1,42 @@
+.Bike {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .Bike h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .Bike img {
+    max-width: 30%;
+    height: 30%;
+    margin-bottom: 20px;
+  }
+  
+  .Bike p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .Bike .price {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Bike .price p {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .Bike button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

@@ -1,0 +1,33 @@
+.container-center {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .container-center h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .container-center img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .container-center input {
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 15px;
+  }
+  
+  .container-center p {
+    font-size: 32px;
+    line-height: 2;
+    margin-bottom: 15px;
+  }
+  
+ 
+  .container-center button {
+    background-color: #007bff;
+    color: #fff;
+  }

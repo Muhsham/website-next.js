@@ -1,0 +1,44 @@
+.hero {
+    background-color: #f2f2f2; /* Adjust background color as needed */
+    padding: 50px 0; /* Adjust padding as needed */
+    text-align: center;
+  }
+  
+  .hero-content {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .option-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .option {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .option ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .option li {
+    margin-bottom: 10px;
+  }
+  
+  .option button {
+    /* Add your button styles here */
+    background-color: #007bff;
+    color: #fff;
+    border:;
+   
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
