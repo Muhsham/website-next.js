@@ -12,7 +12,7 @@ const UsedCars = () => {
 
       <div className="used-car">
         <h1>Toyota Corolla 2021 Price in Pakistan, Images, Reviews & Specs</h1>
-        <Image src="/corolla.png" alt="Toyota Corolla 2021" width={500} height={300} />
+        <Image src="/Corolla.png" alt="Toyota Corolla 2021" width={500} height={300} />
         <p>
           Toyota Corolla 2021 offers a blend of reliability, fuel efficiency, and comfortable driving experience.
           Its known for its spacious interior, advanced safety features, and smooth handling, making it a popular choice for daily commuting and family outings.

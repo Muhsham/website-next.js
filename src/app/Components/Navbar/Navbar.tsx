@@ -9,7 +9,7 @@ export default function Navbar () {
     <header>
               
       <Image 
-            src="/logo.png" alt="Logo"
+            src="/Logo.png" alt="Logo"
             width={350}
             height={50}
 
