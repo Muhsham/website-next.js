@@ -9,10 +9,9 @@ const NewCar = () => {
     <div>
     <Navbar/>
    
-      
-     <div className="new-car">
+      <div className="new-car">
       <h1>Honda Civic 2024 Price in Pakistan, Images, Reviews & Specs</h1>
-      <Image src="/Civic.png" alt="Honda Civic 2024" width={500} height={300} />
+      <Image src="/Corolla.png" alt="Toyota Corolla 2021" width={500} height={300} />
       <p>
       Honda Civic 2024 offers a blend of reliability, fuel efficiency, and comfortable driving experience.
       Its known for its spacious interior, advanced safety features, and smooth handling, making it a popular choice for daily commuting and family outings
